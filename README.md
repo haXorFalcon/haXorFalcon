@@ -1,4 +1,4 @@
-<!-- Created By 0xResistance -->
+<!-- Created By haXorFalcon -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51c1ff&height=120&section=header"/>
 <h3 align="center">
 <p align="center"> <a href="t.me/resistance1337"><img src="https://avatars.githubusercontent.com/u/78366031?v=4" height="128" width="128" alt="Profile"></a>   
@@ -14,14 +14,14 @@
 </p>
 
 
-<p align='center'><img src="https://komarev.com/ghpvc/?username=0xResistance&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="0xResistance" 
+<p align='center'><img src="https://komarev.com/ghpvc/?username=haXorFalcon&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="haXorFalcon" 
 </p>
 
 
 ## GitHub Achievements
 <h3 align="center">
 
-![0xResistance](https://github-profile-trophy.vercel.app/?username=0xResistance&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![haXorFalcon](https://github-profile-trophy.vercel.app/?username=haXorFalcon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
@@ -56,14 +56,14 @@
  
 <a href="https://t.me/resistance1337"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=merajman21@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://facebook.com/0xResistance"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://facebook.com/haXorFalcon"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
 <h3 align="center">
 
 ## 📊 GitHub Stats:
 <h3 align="center">
 
-![Th3HaXor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xResistance&theme=ayu_mirage)
+![Th3HaXor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haXorFalcon&theme=ayu_mirage)
 
-![Th3HaXor](https://github-readme-streak-stats.herokuapp.com/?user=0xResistance&theme=dark&hide_border=false)</br>
+![Th3HaXor](https://github-readme-streak-stats.herokuapp.com/?user=haXorFalcon&theme=dark&hide_border=false)</br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
