@@ -1,5 +1,8 @@
 <!-- Created By haXorFalcon -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51c1ff&height=120&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Mohammed%20Meraj%20Bin%20Nur&fontSize=65&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Jr.%20Pentester%20|%20SE%20Student%20|%20GfxDesigner&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
+</div>
+
 <h3 align="center">
 <p align="center"> <a href="t.me/resistance1337"><img src="https://avatars.githubusercontent.com/u/78366031?v=4" height="128" width="128" alt="Profile"></a>   
   
