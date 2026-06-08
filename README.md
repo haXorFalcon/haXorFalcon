@@ -1,72 +1,83 @@
-<!-- Created By haXorFalcon -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Mohammed%20Meraj%20Bin%20Nur&fontSize=65&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Jr.%20Pentester%20|%20SE%20Student%20|%20GfxDesigner&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Mohammed%20Meraj%20Bin%20Nur&fontSize=55&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Jr.%20Pentester%20%7C%20SE%20Student%20%7C%20GFX%20Designer&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
 </div>
 
-<h3 align="center">
-<p align="center"> <a href="t.me/resistance1337"><img src="https://avatars.githubusercontent.com/u/78366031?v=4" height="128" width="128" alt="Profile"></a>   
-  
-
-<p align="center"><img src="https://img.shields.io/badge/From-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  
-</h3>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08c100&size=10&center=true&lines=Security+Just+An+Illusion.+Everything+Is+Vulnerable.)](https://git.io/typing-svg)
-
-
+<p align="center">
+  <a href="https://t.me/resistance1337">
+    <img src="https://avatars.githubusercontent.com/u/78366031?v=4" height="100" width="100" style="border-radius:50%" alt="Profile"/>
+  </a>
 </p>
 
-
-<p align='center'><img src="https://komarev.com/ghpvc/?username=haXorFalcon&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="haXorFalcon" 
+<p align="center">
+  <img src="https://img.shields.io/badge/From-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=haXorFalcon&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
 </p>
 
-
-## GitHub Achievements
-<h3 align="center">
-
-![haXorFalcon](https://github-profile-trophy.vercel.app/?username=haXorFalcon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-
-<img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
-<h3 align="center">
-</div>
-
-<h2><i>🚀 Programming & DevTools Skills: </i></h2>
- 
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>     <br><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
-    <img width="20px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />    
-    <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&center=true&color=39e75f&width=500&lines=Security+Just+An+Illusion.+Everything+Is+Vulnerable." alt="Typing SVG"/>
 </p>
 
-<img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
-<h3 align="center">
-<h2><i>🛡 Contact With Me: </i></h2>
-<h3 align="center">
- 
-<a href="https://t.me/resistance1337"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=merajman21@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://facebook.com/haXorFalcon"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<img align="center" alt="line" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/2a38de9af1247e5b57c1fe8a014b631fafef0bff/assets/images/line-1.svg">
-<h3 align="center">
+---
 
-## 📊 GitHub Stats:
-<h3 align="center">
+## 🛠️ Skills & Tools
 
-![Th3HaXor](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haXorFalcon&theme=ayu_mirage)
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.cplusplus.com/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://wordpress.com/"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.raspberrypi.org/"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.apachefriends.org/"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/"><img src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30"/></a>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="30"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="30"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="30"/>&nbsp;&nbsp;
+  <img src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Termux" height="30"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" height="20"/>
+</p>
 
-![Th3HaXor](https://github-readme-streak-stats.herokuapp.com/?user=haXorFalcon&theme=dark&hide_border=false)</br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://trophy.benkou.dev/?username=haXorFalcon&theme=onestar&no-frame=true&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haXorFalcon&theme=ayu_mirage" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haXorFalcon&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://t.me/resistance1337">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>&nbsp;
+  <a href="mailto:merajman21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://facebook.com/haXorFalcon">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
