@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="30"/></a>&nbsp;&nbsp;
@@ -52,7 +52,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://trophy.benkou.dev/?username=haXorFalcon&theme=onestar&no-frame=true&column=7"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haXorFalcon&theme=ayu_mirage"/>
@@ -72,7 +72,7 @@
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 <p align="center">
   <a href="https://meraj.is-a.dev">
@@ -94,7 +94,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p align="center">
   <a href="https://t.me/resistance1337">
