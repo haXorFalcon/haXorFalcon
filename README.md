@@ -55,7 +55,7 @@
 ## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haXorFalcon&no-bg=true"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=haXorFalcon&theme=darkhub"/>
 </p>
 
 ---
