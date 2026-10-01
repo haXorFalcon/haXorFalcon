@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://meraj.is-a.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1500&color=A855F7&center=true&width=650&lines=%E2%9C%A8+Projects+%E2%80%A2+Security+%E2%80%A2+Design+%E2%80%A2+Development"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1500&color=A855F7&center=true&width=650&lines=Projects+%E2%80%A2+Security+%E2%80%A2+Design+%E2%80%A2+Development"/>
   </a>
 </p>
 
