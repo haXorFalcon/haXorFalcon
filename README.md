@@ -55,7 +55,7 @@
 ## GitHub Achievements
 
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=haXorFalcon&theme=onestar&no-frame=true&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=haXorFalcon&no-bg=true"/>
 </p>
 
 ---
